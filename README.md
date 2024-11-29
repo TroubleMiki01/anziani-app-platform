@@ -1,1 +1,4 @@
-Test content
+{
+  "content": "Test content",
+  "encoding": "base64"
+}
